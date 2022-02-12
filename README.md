@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @urxnot
 - 👀 I’m interested in coding C#, C++ and Python!
-- 🌱 I’m currently learning Node JA
+- 🌱 I’m currently learning Node JS
 - 📫 How to reach me: Twitter: @urxnot Discord: urxnot#4052
 
 <!---
